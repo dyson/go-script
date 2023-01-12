@@ -2,6 +2,8 @@
 
 Run https://github.com/bitfield/script directly from the CLI.
 
+This was an experiment and has been expanded into something useful here: https://github.com/dyson/pipesore.
+
 ## Installation
 
 ```bash
